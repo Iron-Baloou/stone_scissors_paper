@@ -1,6 +1,6 @@
 Dies ist eine einfacher  JavaScript-Codedes Spiels "Schere, Stein, Papier". Es spielt ein Spieler, gegen einen computergesteuerten Gegner (NPC) für eine bestimmte Anzahl von Runden(5).
 
-Spielregeln
+## Spielregeln
 Das Spiel folgt den Standardregeln von "Schere, Stein, Papier":
 
 Schere schlägt Papier
@@ -10,6 +10,7 @@ Verwendung
 Um das Spiel zu spielen, führen Sie den Code in einer JavaScript-Umgebung wie einer Webbrowser-Konsole.
 
 Die Funktion rounds_game() fordert den Benutzer auf, die Anzahl der zu spielenden Runden einzugeben.
+
 
 Die Funktion player() fordert den Benutzer auf, seinen Zug auszuwählen: 1 für Schere, 2 für Stein oder 3 für Papier.
 
