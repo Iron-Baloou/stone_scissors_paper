@@ -1,0 +1,1 @@
+erstellen der Input abfrage. Das spiel soll mittels eingabe (Game) in der Konsole gestartet werden
